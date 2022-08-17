@@ -1,0 +1,2 @@
+# streamlit_interactive_sales_dashboard
+An interactive dashboard created using streamlit
